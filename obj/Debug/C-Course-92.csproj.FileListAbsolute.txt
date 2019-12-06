@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\C-Course-92\C-Course-92\obj\Debug\C-Course-92.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\C-Course-92\C-Course-92\obj\Debug\C-Course-92.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\C-Course-92\C-Course-92\bin\Debug\C-Course-92.exe.config
+C:\Users\Student\source\repos\C-Course-92\C-Course-92\bin\Debug\C-Course-92.exe
+C:\Users\Student\source\repos\C-Course-92\C-Course-92\bin\Debug\C-Course-92.pdb
+C:\Users\Student\source\repos\C-Course-92\C-Course-92\obj\Debug\C-Course-92.exe
+C:\Users\Student\source\repos\C-Course-92\C-Course-92\obj\Debug\C-Course-92.pdb
